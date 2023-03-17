@@ -68,7 +68,7 @@ CREATE TABLE IF NOT EXISTS sucursal (
 	Longitud2	VARCHAR(30)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_spanish_ci;
 
-LOAD DATA INFILE 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Sucursales_ANSI.csv' 
+LOAD DATA INFILE 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Sucursales.csv' 
 INTO TABLE sucursal
 CHARACTER SET latin1 -- Si no colocamos esta línea, no reconoce la codificación adecuada ANSI
 FIELDS TERMINATED BY ';' ENCLOSED BY '\"' ESCAPED BY '\"' 
@@ -76,12 +76,6 @@ LINES TERMINATED BY '\n' IGNORE 1 LINES;
 SELECT * FROM sucursal;
 TRUNCATE TABLE sucursal;
 
-LOAD DATA INFILE 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Sucursales_UTF8.csv' 
-INTO TABLE sucursal
-CHARACTER SET utf8mb4
-FIELDS TERMINATED BY ';' ENCLOSED BY '\"' ESCAPED BY '\"' 
-LINES TERMINATED BY '\n' IGNORE 1 LINES;
-SELECT * FROM sucursal;
 
 DROP TABLE IF EXISTS cliente;
 CREATE TABLE IF NOT EXISTS cliente (
