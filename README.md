@@ -4,8 +4,7 @@ Este proyecto tuvo como objetivo hacer un proceso de ETL a las tablas ubicadas e
 consistio en cargar todas las tablas a un gestor de base (MySQL en este caso) para realizar todo el proceso de 
 limpienza, normalizacion y demas procedimientos para un optimo proceso de ETL.
 
-Luego se crearon consultas que serian de gran ayuda para un analisis de los datos por querer explotar, esto generando 
-capacidades analitas para un entorno de trabajo real.
+Posteriormente se crearon consultas que serian de gran ayuda para un analisis de los datos por querer explotar, utilizando la herramienta
+de visualizacion y analis de Power BI, tablero el cual se encuentra en este repositorio.
 
-Nota: Todos los datos son con fin de afianzar los conocimientos en en el analisis de datos e ingenieria de datos con el lenguaje SQL,
-este es un trabajo que se asemeja mucho al entorno real que viven las organizaciones. 
+Nota: Todos los datos son con fin de poner en practica todos los conocimientos en el analisis de datos e ingenieria de datos con la herrarmienta de Power BI y lenguaje SQL. Trabajo el cual, busca simular el entorno real que viven las organizaciones. 
