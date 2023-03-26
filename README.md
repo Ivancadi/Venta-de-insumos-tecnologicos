@@ -1,5 +1,6 @@
 # Venta-de-insumos-tecnologicos
- Proyecto de ETL y Analisis de datos con MySQL
+Proyecto de ETL con MySQL y Analisis de datos con Power BI
+
 Este proyecto tuvo como objetivo hacer un proceso de ETL a las tablas ubicadas en la carpeta Dataset, el cual 
 consistio en cargar todas las tablas a un gestor de base (MySQL en este caso) para realizar todo el proceso de 
 limpienza, normalizacion y demas procedimientos para un optimo proceso de ETL.
