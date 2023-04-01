@@ -1,11 +1,9 @@
 # Venta-de-insumos-tecnologicos
-Proyecto de ETL con MySQL y Analisis de datos con Power BI
+Proyecto de ETL, Analisis y Vizualizacion de Datos con MySQL y Power BI
 
-Este proyecto tuvo como objetivo hacer un proceso de ETL a las tablas ubicadas en la carpeta Dataset, el cual 
-consistio en cargar todas las tablas a un gestor de base (MySQL en este caso) para realizar todo el proceso de 
-limpienza, normalizacion y demas procedimientos para un optimo proceso de ETL.
+En este proyecto, se llevó a cabo un proceso de ETL (Extract, Transform, Load), análisis de datos y visualización utilizando herramientas como MySQL y Power BI en un conjunto de datos proporcionado.
 
-Posteriormente se crearon consultas que serian de gran ayuda para un analisis de los datos por querer explotar, utilizando la herramienta
-de visualizacion y analisis de Power BI, respondiendo asi preguntas de negocio (tablero el cual se encuentra en este repositorio).
+El objetivo principal fue explorar los datos y extraer información valiosa a través de diversas técnicas y herramientas para obtener una mejor comprensión de los datos y descubrir patrones y tendencias interesantes. Para lograr este objetivo, se siguieron los pasos necesarios para limpiar y transformar los datos en un formato adecuado para su análisis, lo que permitió su visualización en Power BI. Además, se utilizó MySQL para realizar la extracción de datos y la transformación necesaria antes de su carga en Power BI.
 
-Nota: Todos los datos son con fin de poner en practica todos los conocimientos en el analisis de datos e ingenieria de datos con la herrarmienta de Power BI y lenguaje SQL. Trabajo el cual, busca simular el entorno real que viven las organizaciones. 
+En resumen, este proyecto permitió utilizar herramientas como MySQL y Power BI para llevar a cabo un proceso de ETL, análisis de datos y visualización de un conjunto de datos suministrado, lo que resultó en información valiosa y útil para el análisis y la toma de decisiones.
+
