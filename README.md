@@ -1,4 +1,4 @@
-# Proyecto de ETL, Analisis y Vizualizacion de Datos con MySQL y Power BI
+# Proyecto de ETL, Análisis y Vizualización de Datos con MySQL y Power BI
 Proyecto de ETL, Analisis y Vizualizacion de Datos con MySQL y Power BI para empresa expendedora de insumos tecnologicos
 
 En este proyecto, se llevó a cabo un proceso de ETL (Extract, Transform, Load), análisis de datos y visualización utilizando herramientas como MySQL y Power BI en un conjunto de datos proporcionados, los cuales se encuentra en este repositorio.
